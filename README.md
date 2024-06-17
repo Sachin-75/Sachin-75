@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Sachin Kumavat</h1>
+<h1 align="center">Hi👋, I'm Sachin Kumavat</h1>
 
 <h3 align="center">MERN Stack | Java Development</h3>
 
