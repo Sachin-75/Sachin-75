@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Sachin-75&label=Profile%20views&color=0e75b6&style=flat" alt="vijay4145" /> </p>
 
 - 🔭 Graduated in Information Technology from Terna Engineering College,Nerul,Navi Mumbai.
-- 👨‍💻 Enthusiast in Java and Full Stack Technologies.
+- 👨‍💻 Enthusiast in Java framework and Full Stack Technologies.
 - 📫 How to reach me **sachin.kumavat93@gmail.com**
 
 <h3 align="left">Connect with me :</h3>
