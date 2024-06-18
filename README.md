@@ -6,7 +6,7 @@
 
 - 🔭 Graduated in Information Technology from Terna Engineering College,Nerul,Navi Mumbai.
 - 👨‍💻 Enthusiast in Java framework and Full Stack Technologies.
-- 📫 How to reach me **sachin.kumavat93@gmail.com**
+- 📫 Reach me at **sachin.kumavat93@gmail.com**
 
 <h3 align="left">Connect with me :</h3>
 <a href="https://www.linkedin.com/in/sachin-kumavat-50b83225b/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Sachin Kumavat" height="30" width="40" /></a>
